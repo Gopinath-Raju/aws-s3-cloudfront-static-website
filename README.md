@@ -69,7 +69,7 @@ User (Browser)
 ![CloudFront Created](screenshots/03-CloudFront-Created.png)
 
 ### 4. Distribution Status — Enabled
-![Distribution Enabled](04-Distribution-Enabled.png)
+![Distribution Enabled](04-Distribution-Enabled.jpg)
 
 ### 5. index.html Uploaded to S3
 ![File Uploaded](05-File-Uploaded.png)
