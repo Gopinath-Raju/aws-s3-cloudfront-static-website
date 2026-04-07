@@ -60,19 +60,19 @@ User (Browser)
 ***
 
 ### 1. S3 Bucket Created
-![S3 Bucket Created](screenshots/01-S3-Bucket-Created.jpg)
+![S3 Bucket Created](screenshots/01-S3-Bucket-Created.png)
 
 ### 2. CloudFront Distribution — Review Page
-![CloudFront Review](screenshots/02-CloudFront-Review.jpg)
+![CloudFront Review](screenshots/02-CloudFront-Review.png)
 
 ### 3. CloudFront Distribution Created
-![CloudFront Created](screenshots/03-CloudFront-Created.jpg)
+![CloudFront Created](screenshots/03-CloudFront-Created.png)
 
 ### 4. Distribution Status — Enabled
-![Distribution Enabled](04-Distribution-Enabled.jpg)
+![Distribution Enabled](04-Distribution-Enabled.png)
 
 ### 5. index.html Uploaded to S3
-![File Uploaded](05-File-Uploaded.jpg)
+![File Uploaded](05-File-Uploaded.png)
 
 ### 6. Live Website on CloudFront URL
 ![Live Website](screenshots/06-Live-Website.jpg)
